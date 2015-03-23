@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/DeleteRows/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/DeleteRows/app/build/intermediates/pre-dexed/debug/classes-134ec8f247ae1cfd911056be49bee50acd3d4c43.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/DeleteRows/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/DeleteRows/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-3b552b2f2de8b986c388ea5b9489c02fdd9733dc.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/DeleteRows/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-da8ad99330849f3485026c7bb7cd5863a0e9c663.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/DeleteRows/app/libs/jdom-2.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9f6909efb7121532c8dd5c2797ed35a5dddc120d">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/DeleteRows/app/build/intermediates/pre-dexed/debug/jdom-2.0.3-1534cb2f58ce5941241b2a6cfd6bc7f9d68becd0.jar" />
+    </item>
+
+</items>
